@@ -1,19 +1,37 @@
 body {
-    background: url("http://www.gsfdcy.com/data/img1/83/2110983-subway-wallpaper.jpg");
+    background: url("http://citywallpaperhd.com/download/122-unmatched-orlando.jpg");
     background-repeat: no-repeat;
     
 }
 
 .jumbotron {
-    background: url("http://epicwallpaperz.com/wallpaper-hd/black-texture-wallpapers-high-quality-resolution-On-wallpaper-hd.jpg");
+    background: url("https://sunrail.com/wp-content/uploads/2015/09/church_st_282.jpg");
+    background-position: 0px,0px,0px,600px;
+    background-repeat: no-repeat;
+    background-position: cover;
+}
+#heading {
+    color: white;
+    -webkit-text-stroke: 48px,black;
+}
+img {
+    margin-left: 830px;
+    background-position: 30px, 0px, 0px, 0px;
 }
 #subHeading {
     font-family: "Brush Script MT, Brush Script Std, cursive" ;
+    color: white;
+}
+#currentTime {
+    color: white;
 }
 .panel-body {
-    background-color:rgb(76, 91, 139);
+    background-color:rgb(245, 204, 20);
 }
 .panel-title {
     text-align: center;
-    color: rgb(139, 231, 224);
+    color: rgb(210, 221, 220);
+}
+.form-group {
+    color: black;
 }
