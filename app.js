@@ -117,6 +117,3 @@ setInterval(function() {
   window.location.reload();
 }, 60000);
 
-$('.carousel').carousel({
-    interval: 2000
-  })
