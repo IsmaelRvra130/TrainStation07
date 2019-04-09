@@ -1,0 +1,19 @@
+body {
+    background: url("http://www.gsfdcy.com/data/img1/83/2110983-subway-wallpaper.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+.jumbotron {
+    background: url("http://epicwallpaperz.com/wallpaper-hd/black-texture-wallpapers-high-quality-resolution-On-wallpaper-hd.jpg");
+}
+#subHeading {
+    font-family: "Brush Script MT, Brush Script Std, cursive" ;
+}
+.panel-body {
+    background-color:rgb(76, 91, 139);
+}
+.panel-title {
+    text-align: center;
+    color: rgb(139, 231, 224);
+}
