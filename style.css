@@ -35,3 +35,9 @@ img {
 .form-group {
     color: black;
 }
+a {
+    margin-left:870px;
+    color: blue;
+    font-display: bold;
+    font-size: 25px;
+}
